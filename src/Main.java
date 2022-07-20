@@ -1,6 +1,4 @@
-
 import java.time.LocalDate;
-
 import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Mentoria;
 
@@ -20,7 +18,6 @@ public class Main {
 
 		Mentoria mentoria = new Mentoria();
 		mentoria.setTitulo("mentoria java");
-		mentoria.setDescricao("descricao mentoria java");
 		mentoria.setdata(LocalDate.now());
 		
 		System.out.println(curso1);

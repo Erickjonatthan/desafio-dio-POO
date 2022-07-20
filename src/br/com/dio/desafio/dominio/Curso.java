@@ -34,9 +34,9 @@ public class Curso {
 	public String toString() {
 		// TODO Auto-generated method stub
 	return "Curso {" +
-			"Titulo = "+ titulo + '\'' +
-			" Carga horaria = "+ cargaHoraria + '\'' +
-			", descricao = " + descricao +
+			"Titulo = '"+ titulo + '\'' +
+			" Carga horaria = '"+ cargaHoraria + '\'' +
+			", descricao = '" + descricao +
 			'}';
 	}
 

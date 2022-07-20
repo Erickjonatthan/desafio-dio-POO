@@ -33,9 +33,9 @@ public class Mentoria {
 	public String toString() {
 		// TODO Auto-generated method stub
 	return "Mentoria{" +
-			"Titulo = "+ titulo + '\'' +
-			" Descricao = "+ descricao + '\'' +
-			", Data = " + data +
+			"Titulo = '"+ titulo + '\'' +
+			" Descricao = '"+ descricao + '\'' +
+			", Data = '" + data +
 			'}';
 	}
 

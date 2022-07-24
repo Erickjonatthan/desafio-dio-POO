@@ -21,8 +21,8 @@ public class Main {
 		mentoria.setdata(LocalDate.now());
 		
 		System.out.println(curso1);
-		System.out.println(curso2);
-		System.out.p rintln(mentoria);
+		System.ou t.println(curso2);
+		System.out.println(mentoria);
 		
 	}
 

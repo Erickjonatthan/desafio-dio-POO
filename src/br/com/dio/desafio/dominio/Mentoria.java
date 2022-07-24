@@ -35,7 +35,7 @@ public class Mentoria {
 	return "Mentoria{" +
 			"Titulo = '"+ titulo + '\'' +
 			"  Descricao = '"+ descricao + '\'' +
-			", Data = '" + data +
+			" , Data = '" + data +
 			'}';
 	}
 
